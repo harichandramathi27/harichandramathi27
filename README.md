@@ -70,9 +70,9 @@ A conceptual and practical project that explains **Operating System fundamentals
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: your.email@example.com  
+- GitHub: https://github.com/harichandramathi27 
+- LinkedIn: https://www.linkedin.com/in/harichandramathi-p-8a232a354 
+- Email: harichandramathi@gmail.com 
 
 ---
 
