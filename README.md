@@ -48,8 +48,8 @@ A conceptual and practical project that explains **Operating System fundamentals
 - Next.js
 - TypeScript  
 
-🔗 **Repository:** *(Add your GitHub repo link here)*  
-🌐 **Live Demo:** *(Add GitHub Pages / Netlify link here)*  
+🔗 **Repository:** 
+🌐 **Live Demo:** https://portfolio-flame-beta-txjr4jzxbz.vercel.app/ 
 
 ---
 
