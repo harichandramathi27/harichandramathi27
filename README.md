@@ -81,13 +81,6 @@ const harichandramathi = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harichandramathi27&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</div>
-
----
 
 ## 📈 Contribution Graph
 
