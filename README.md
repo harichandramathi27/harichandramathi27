@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harichandramathi P
+# 👋 Hi, I'm Harichandramathi 
 
 💻 Aspiring Full-Stack Developer | 🌱 Continuous Learner | 🚀 Tech Enthusiast  
 
