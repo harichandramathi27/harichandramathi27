@@ -14,8 +14,8 @@ I enjoy learning by doing, from **frontend development** to **system-level conce
 - JavaScript (Basics)
 
 ### Frontend
-- HTML5  
-- CSS3  
+- HTML  
+- CSS
 - React (Vite – basics)
 
 ### Backend
