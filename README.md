@@ -54,10 +54,10 @@ A conceptual and practical project that explains **Operating System fundamentals
 ---
 
 ## 🌱 Currently Learning
-- Operating System concepts (processes, scheduling, memory)  
-- JavaScript fundamentals & DOM  
-- React basics  
-- Backend API concepts using Flask  
+- Backend API concepts using Flask
+- Building websites using AI site builders
+- AWS Cloud
+- Devops fundamentals
 
 ---
 
