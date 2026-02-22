@@ -49,8 +49,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harichandramathi27&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harichandramathi27&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?harichandramathi27&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?harichandramathi27&layout=compact&theme=tokyonight" />
 </p>
 
 ---
