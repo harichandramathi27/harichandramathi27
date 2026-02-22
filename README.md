@@ -3,11 +3,6 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harichandramathi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://github.com/harichandramathi27">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=👋+Hey%2C+I'm+Harichandramathi!;💻+Full+Stack+Developer;☁️+Cloud+%26+DevOps+Enthusiast;🚀+Building+Scalable+Web+Apps;🌱+Always+Learning+%26+Growing" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- Profile Views & Followers -->
@@ -68,12 +63,6 @@ const harichandramathi = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harichandramathi27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harichandramathi27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-
-<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harichandramathi27&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 
