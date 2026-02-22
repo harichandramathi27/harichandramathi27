@@ -23,12 +23,12 @@ I enjoy learning by doing, from **frontend development** to **system-level conce
 
 ### Database
 - MongoDB  
-- PostgreSQL (Basic understanding)
 
 ### Tools
 - Git & GitHub  
 - VS Code  
-- npm  
+- npm
+- AWS Console 
 
 ---
 
