@@ -24,7 +24,7 @@ const harichandramathi = {
   role:       "Full Stack Developer",
   passion:    ["Web Development", "Cloud Architecture", "DevOps"],
   learning:   ["Advanced React Patterns", "Kubernetes", "Serverless"],
-  askMeAbout: ["HTML/CSS", "React", "JavaScript", "MongoDB", "AWS", "Terraform"],
+  askMeAbout: ["HTML/CSS", "React", "JavaScript","Flask", "MongoDB", "AWS", "Terraform"],
   funFact:    "I automate everything I do more than twice 🤖"
 };
 ```
