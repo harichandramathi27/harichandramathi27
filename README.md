@@ -49,7 +49,7 @@ const harichandramathi = {
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI-CD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white
+![CI/CD](https://img.shields.io/badge/CI-CD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white).
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
